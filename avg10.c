@@ -13,3 +13,7 @@ int main()
     printf("\n the sum of %d students marks is %f and its average is %f",n,sum,sum/n);
     return 0;
 }
+float mult(float a,float b)
+{
+    return(a*b);
+}
